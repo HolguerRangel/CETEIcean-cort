@@ -14,3 +14,4 @@ tei-head {
 tei-p {
   display: block;
 }
+tei-persname {text-variant:small-caps;}
