@@ -17,4 +17,7 @@ tei-p {
 tei-persname {text-variant:small-caps;
 color: red;
   
-}
+tei-abbr{display: none;
+tei-expan {color: green;
+  
+  }
