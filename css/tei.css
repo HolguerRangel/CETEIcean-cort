@@ -15,12 +15,12 @@ tei-p {
   display: block;
 }
 tei-persname {text-variant:small-caps;
-color: red;
+  color: red;}
   
-tei-abbr{display: none;
-tei-expan {color: green;
+tei-abbr {display: none;
+  tei-expan {color: green;}
 
-  tei-del{ text-decoration: line-through red 1pt}
+  tei-del{ text-decoration: line-through red 1pt;}
     
-  tei-add {text-decoration: underline solid 1pt green
+  tei-add {text-decoration: underline solid 1pt green;
   }
