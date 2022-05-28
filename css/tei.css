@@ -19,5 +19,8 @@ color: red;
   
 tei-abbr{display: none;
 tei-expan {color: green;
-  
+
+  tei-del{ text-decoration: line-through red 1pt}
+    
+  tei-add {text-decoration: underline solid 1pt green
   }
